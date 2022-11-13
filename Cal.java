@@ -1,3 +1,8 @@
+//Author: Janice Lee
+//GMU 
+//SWE637 Assignment 
+
+
 package assignment2SWE637;
 
 public class Cal 
