@@ -1,3 +1,7 @@
+//Author: Janice Lee
+//GMU
+//SWE637 HW 2
+
 package assignment2SWE637;
 import static org.junit.Assert.*;
 import java.util.Arrays;
